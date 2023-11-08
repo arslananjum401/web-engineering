@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\blazor\\placement-done\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\placement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\placement.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\1639515333881.png",
+      "PackagePath": "staticwebassets\\media\\images\\1639515333881.png"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\2807611.jpg",
+      "PackagePath": "staticwebassets\\media\\images\\2807611.jpg"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\6976181.jpg",
+      "PackagePath": "staticwebassets\\media\\images\\6976181.jpg"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\Elsevier-collab-image.jpg",
+      "PackagePath": "staticwebassets\\media\\images\\Elsevier-collab-image.jpg"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\dxf91zhqd2z6b0bwg85ktm5s4.svg",
+      "PackagePath": "staticwebassets\\media\\images\\dxf91zhqd2z6b0bwg85ktm5s4.svg"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\home-bg-img.png",
+      "PackagePath": "staticwebassets\\media\\images\\home-bg-img.png"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\img1.svg",
+      "PackagePath": "staticwebassets\\media\\images\\img1.svg"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\img2svg.svg",
+      "PackagePath": "staticwebassets\\media\\images\\img2svg.svg"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\microsoft.png",
+      "PackagePath": "staticwebassets\\media\\images\\microsoft.png"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\placement_logo.png",
+      "PackagePath": "staticwebassets\\media\\images\\placement_logo.png"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\pngtree-sharing-economy-collaborative-economy-business-model-png-image_6699990.jpg",
+      "PackagePath": "staticwebassets\\media\\images\\pngtree-sharing-economy-collaborative-economy-business-model-png-image_6699990.jpg"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\search-page-vector.svg",
+      "PackagePath": "staticwebassets\\media\\images\\search-page-vector.svg"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\sixth.avif",
+      "PackagePath": "staticwebassets\\media\\images\\sixth.avif"
+    },
+    {
+      "Id": "F:\\blazor\\placement-done\\wwwroot\\media\\images\\welcome-3688628-3231459.png",
+      "PackagePath": "staticwebassets\\media\\images\\welcome-3688628-3231459.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.placement.props",
+      "PackagePath": "build\\placement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.placement.props",
+      "PackagePath": "buildMultiTargeting\\placement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.placement.props",
+      "PackagePath": "buildTransitive\\placement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.placement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

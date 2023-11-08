@@ -1,0 +1,30 @@
+@using placement.ClassModels;
+<NavLink class="flex cursor-pointer bg-gray-200 duration-200 w-full max-w-lg hover:bg-slate-400 rounded-lg py-3">
+    <div class="w-1/5">
+        <img src="/media/images/microsoft.png" alt="" class="w-[300%]">
+    </div>
+    <div class="w-4/5 flex flex-col">
+        <NavLink class="cursor-pointer hover:underline text-xl font-semibold text-[#171819] mb-2">
+            @Job.JobTitle
+        </NavLink>
+
+        <span class="text-[#171819]">
+            @Job.CompanyName
+        </span>
+
+        <span class="text-[#535455] text-sm">
+            @Job.Location
+
+        </span>
+
+        <span class="text-[#535455] text-sm">
+            @Job.PostedAgo
+        </span>
+    </div>
+</NavLink>
+
+@code {
+
+    [Parameter]
+    public JobObj Job { get; set; } = new JobObj();
+}

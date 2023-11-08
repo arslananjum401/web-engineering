@@ -1,0 +1,178 @@
+@page "/jobs";
+@using placement.ClassModels;
+@using placement.Components;
+
+<Header />
+
+<div class="flex items-center flex-wrap gap-x-6 gap-y-10 justify-center px-7 sm:px-16 2xl:px-32">
+    @foreach (JobObj job in Joblists)
+    {
+        <JobsCard Job="@job" />
+    }
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@code {
+
+    public List<JobObj> Joblists = new List<JobObj>
+{
+new JobObj
+{
+JobTitle = "Web Developer",
+Location = "New York, NY",
+CompanyName = "TechCo",
+PostedAgo = "2 hours ago"
+},
+new JobObj
+{
+JobTitle = "Data Analyst",
+Location = "San Francisco, CA",
+CompanyName = "DataCorp",
+PostedAgo = "1 day ago"
+},
+new JobObj
+{
+JobTitle = "Software Engineer",
+Location = "Seattle, WA",
+CompanyName = "CodeTech",
+PostedAgo = "3 days ago"
+},
+new JobObj
+{
+JobTitle = "UX Designer",
+Location = "Los Angeles, CA",
+CompanyName = "DesignWorks",
+PostedAgo = "5 hours ago"
+},
+new JobObj
+{
+JobTitle = "Product Manager",
+Location = "Austin, TX",
+CompanyName = "ProdCo",
+PostedAgo = "1 week ago"
+},
+new JobObj
+{
+JobTitle = "Frontend Developer",
+Location = "Chicago, IL",
+CompanyName = "WebDev Inc",
+PostedAgo = "12 hours ago"
+},
+new JobObj
+{
+JobTitle = "Data Scientist",
+Location = "Boston, MA",
+CompanyName = "Data Insights",
+PostedAgo = "2 days ago"
+},
+new JobObj
+{
+JobTitle = "UI/UX Designer",
+Location = "Denver, CO",
+CompanyName = "CreativeUX",
+PostedAgo = "4 hours ago"
+},
+new JobObj
+{
+JobTitle = "Backend Developer",
+Location = "Dallas, TX",
+CompanyName = "CodeMasters",
+PostedAgo = "1 day ago"
+},
+new JobObj
+{
+JobTitle = "Project Manager",
+Location = "Philadelphia, PA",
+CompanyName = "ProjectPro",
+PostedAgo = "6 days ago"
+},
+// Add 10 more job listings here...
+new JobObj
+{
+JobTitle = "Job Title 11",
+Location = "Location 11",
+CompanyName = "Company 11",
+PostedAgo = "2 weeks ago"
+},
+new JobObj
+{
+JobTitle = "Job Title 12",
+Location = "Location 12",
+CompanyName = "Company 12",
+PostedAgo = "1 week ago"
+},
+new JobObj
+{
+JobTitle = "Job Title 13",
+Location = "Location 13",
+CompanyName = "Company 13",
+PostedAgo = "4 days ago"
+},
+new JobObj
+{
+JobTitle = "Job Title 14",
+Location = "Location 14",
+CompanyName = "Company 14",
+PostedAgo = "3 days ago"
+},
+new JobObj
+{
+JobTitle = "Job Title 15",
+Location = "Location 15",
+CompanyName = "Company 15",
+PostedAgo = "1 day ago"
+},
+new JobObj
+{
+JobTitle = "Job Title 16",
+Location = "Location 16",
+CompanyName = "Company 16",
+PostedAgo = "2 days ago"
+},
+new JobObj
+{
+JobTitle = "Job Title 17",
+Location = "Location 17",
+CompanyName = "Company 17",
+PostedAgo = "5 hours ago"
+},
+new JobObj
+{
+JobTitle = "Job Title 18",
+Location = "Location 18",
+CompanyName = "Company 18",
+PostedAgo = "1 week ago"
+},
+new JobObj
+{
+JobTitle = "Job Title 19",
+Location = "Location 19",
+CompanyName = "Company 19",
+PostedAgo = "4 hours ago"
+},
+new JobObj
+{
+JobTitle = "Job Title 20",
+Location = "Location 20",
+CompanyName = "Company 20",
+PostedAgo = "3 days ago"
+}
+
+};
+
+
+
+}
